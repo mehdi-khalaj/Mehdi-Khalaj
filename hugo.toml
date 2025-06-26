@@ -109,7 +109,7 @@ url = "posts/"
 
 [[languages.en.menu.main]]
 name = "CV"
-weight = 3
+weight = 4
 url = "cv/"
 
 [[languages.en.menu.main]]
